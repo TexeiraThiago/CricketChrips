@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Cricket  Chrips</string>
+    <string name="answer">The approximate temperature outside is: %.2f degrees Celcius</string>
+    <string name="hints">Numbers of chirps in 25 seconds</string>
+    <string name="btnTemperature">Calculate Temperature</string>
+    <string name="txtExplain">Did you know that you can “count” the number of chirps to get the temperature of your environment without ever looking at a thermometer? To convert cricket chirps to degrees Celsius, count the number of chirps in 25 seconds and put in the line below:</string>
+    <string name="ivDescription">Thermometer</string>
 </resources>
